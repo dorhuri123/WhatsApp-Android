@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="error">#B00020</color>
+    <color name="icon_background">#20FFFFFF</color>
+    <color name="input_background">#ECECEC</color>
+    <color name="primary">#6aa84f</color>
+    <color name="primary_dark">#1a5002</color>
+    <color name="primary_text">#212121</color>
+    <color name="received_message_background">#090D16</color>
+    <color name="secondary_text">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <string name="BaseUrl">http://10.0.2.2:5156/</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_new_contact">Add new contact</string>
+    <string name="app_name">WhatsApp</string>
+    <string name="change">Change</string>
+    <string name="chat_app">Chat App</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="default_web_client_id" translatable="false">441104138887-lj3ansjlna0hj629qs7halha9rq118q7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">441104138887</string>
+    <string name="google_api_key" translatable="false">AIzaSyB59ALgIRuvvazu81-lzSLBGSSOgVByaw0</string>
+    <string name="google_app_id" translatable="false">1:441104138887:android:8f638204773fd4d566ae22</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB59ALgIRuvvazu81-lzSLBGSSOgVByaw0</string>
+    <string name="google_storage_bucket" translatable="false">whatsapp-ae579.appspot.com</string>
+    <string name="new_contact">New Contact</string>
+    <string name="nickname">Nickname</string>
+    <string name="password">Password</string>
+    <string name="project_id" translatable="false">whatsapp-ae579</string>
+    <string name="select_user">select user</string>
+    <string name="server">Server</string>
+    <string name="settings">Settings</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_to_continue">Login to continue</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="username">Username</string>
+    <string name="welcome">Welcome Back!</string>
+    <style name="Theme.WhatsAppAndroid" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:statusBarColor">@color/primary</item>
+    </style>
+</resources>
